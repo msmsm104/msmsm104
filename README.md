@@ -1,15 +1,32 @@
-### Hi there 👋
+# CoCo
 
 ---
+#### Language
+ - python
+ - HTML
+ - CSS
+ - javascript
+ - Swift
+
 #### Education
  - 2022.03 ~ 2022.12 이어드림스쿨 2길 / 중소벤처기업진흥공단
 
 #### Competition(Dacon)
  - 음향 데이터 COVID-19 검출 AI 경진대회: TOP 10%
+ 
+
 
 #### ToyProject
  - Titanic (Kaggle)
+ - BattleGround (Kaggle)
  - MNIST 손글씨 분류
+ - 
+ 
+#### Book
+ - jump to python
+ - python 코딩의 기술
+
+#### Lecture
  - 
 
 
