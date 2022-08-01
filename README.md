@@ -14,6 +14,7 @@
 
 #### Seminar
  - AWS Essential: 클라우드 기초의 모든것 (20220314)
+ - AWS Innovate: AI/ML Edition (20220224)
 
 #### Competition(Dacon)
  - [음향 데이터 COVID-19 검출 AI 경진대회: TOP 10%](https://github.com/msmsm104/Dacon_covid19)
