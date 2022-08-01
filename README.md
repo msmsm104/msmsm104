@@ -24,6 +24,7 @@
 #### ToyProject
  - [Data Structure](https://github.com/msmsm104/yeardreamschool/tree/main/Data_Structure)
  - Titanic (Kaggle)
+ - Boston (Kaggle)
  - [BattleGround (Kaggle)](https://github.com/msmsm104/MachineLearning_Project)
  - [MNIST 손글씨 분류](https://github.com/msmsm104/TIL/tree/main/20220712/rnn)
  
