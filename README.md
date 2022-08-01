@@ -44,6 +44,7 @@
  - [패스트캠퍼스]: 인공지능 회귀분석
  - [패스트캠퍼스]: 가장 쉽게 시작하는 데이터 분석, SQL 유치원 
  - [패스트캠퍼스]: 한 번에 끝내는 컴퓨터 공학 전공필수 & 인공지능 심화
+ - [Codecademy]: Learn python3 (pro)
  - [생활코딩]: WEB2 python
  - [생활코딩]: Machine Learning1
  - [생활코딩]: Tensorflow 101
