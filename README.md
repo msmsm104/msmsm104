@@ -12,6 +12,9 @@
 #### Education
  - 2022.03 ~ 2022.12 이어드림스쿨 2길 / 중소벤처기업진흥공단
 
+#### Seminar
+ - AWS Essential: 클라우드 기초의 모든것 (20220314)
+
 #### Competition(Dacon)
  - [음향 데이터 COVID-19 검출 AI 경진대회: TOP 10%](https://github.com/msmsm104/Dacon_covid19)
  
