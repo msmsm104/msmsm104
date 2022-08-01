@@ -23,7 +23,7 @@
 
 #### ToyProject
  - Titanic (Kaggle)
- - BattleGround (Kaggle)
+ - [BattleGround (Kaggle)](https://github.com/msmsm104/MachineLearning_Project)
  - MNIST 손글씨 분류
  - 
  
