@@ -31,6 +31,7 @@
 #### Book
  - jump to python
  - python 코딩의 기술
+ - 단단한 머신러닝
  - Develop in Swift (Foundamentals)
  - Develop in Swift (Data Collections)
  
