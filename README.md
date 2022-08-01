@@ -29,7 +29,6 @@
 #### Book
  - jump to python
  - python 코딩의 기술
- - Develop in Swift (Explorations)
  - Develop in Swift (Foundamentals)
  - Develop in Swift (Data Collections)
  
