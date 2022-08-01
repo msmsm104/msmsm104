@@ -6,6 +6,7 @@
  - HTML
  - CSS
  - javascript
+ - SQL
  - Swift
 
 #### Education
