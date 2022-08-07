@@ -18,7 +18,7 @@
 
 #### Competition(Dacon)
  - [음향 데이터 COVID-19 검출 AI 경진대회: TOP 10%](https://github.com/msmsm104/Dacon_covid19)
- 
+ - [Dacon] 쇼핑몰 지점별 매출액 분석시각화 경진대회
 
 
 #### ToyProject
@@ -27,6 +27,7 @@
  - [Boston (Kaggle)](https://github.com/msmsm104/yeardreamschool/tree/main/project/%EB%B3%B4%EC%8A%A4%ED%84%B4%20%EC%A7%91%EA%B0%92%20%EC%98%88%EC%B8%A1_0421)
  - [BattleGround (Kaggle)](https://github.com/msmsm104/MachineLearning_Project)
  - [MNIST 손글씨 분류](https://github.com/msmsm104/TIL/tree/main/20220712/rnn)
+ 
  
 #### Book
  - jump to python
