@@ -18,14 +18,21 @@
 
 #### Competition(Dacon)
  - [음향 데이터 COVID-19 검출 AI 경진대회: TOP 10%](https://github.com/msmsm104/Dacon_covid19)
- - [Dacon] 쇼핑몰 지점별 매출액 분석시각화 경진대회
+ - [Dacon] 쇼핑몰 지점별 매출액 분석시각화 경진대회(https://github.com/msmsm104/-Dacon-Shopping_Mall_EDA)
+ - [Dacon] 여행자 시각화 경진대회(https://github.com/msmsm104/Dacon_Travel)
+ 
+#### Kaggle
+ - [Titanic](https://github.com/msmsm104/yeardreamschool/tree/main/project/EDA_titanic_0426)
+ - [Boston](https://github.com/msmsm104/yeardreamschool/tree/main/project/%EB%B3%B4%EC%8A%A4%ED%84%B4%20%EC%A7%91%EA%B0%92%20%EC%98%88%EC%B8%A1_0421)
+ - [JPX](https://github.com/msmsm104/yeardreamschool/blob/main/kaggle/JPX/%E1%84%91%E1%85%B5%E1%86%AF%E1%84%89%E1%85%A1_JPX_detailed_EDA(0508)_2.ipynb)
+ - [H & M](https://github.com/msmsm104/yeardreamschool/blob/main/kaggle/kaggle_project/H_M.ipynb)
+
 
 
 #### ToyProject
+ - [패스트 캠퍼스 (사용자 패턴 분석)](https://github.com/msmsm104/Data_Hackthon)
  - [Data Structure](https://github.com/msmsm104/yeardreamschool/tree/main/Data_Structure)
- - [Titanic (Kaggle)](https://github.com/msmsm104/yeardreamschool/tree/main/project/EDA_titanic_0426)
- - [Boston (Kaggle)](https://github.com/msmsm104/yeardreamschool/tree/main/project/%EB%B3%B4%EC%8A%A4%ED%84%B4%20%EC%A7%91%EA%B0%92%20%EC%98%88%EC%B8%A1_0421)
- - [BattleGround (Kaggle)](https://github.com/msmsm104/MachineLearning_Project)
+ - [BattleGround (머신러닝 프로젝트)](https://github.com/msmsm104/MachineLearning_Project)
  - [MNIST 손글씨 분류](https://github.com/msmsm104/TIL/tree/main/20220712/rnn)
  
  
