@@ -1,20 +1,8 @@
 # 문석민
 
 ---
-#### Language
- - python
- - HTML
- - CSS
- - javascript
- - SQL
- - Swift
-
 #### Education
  - 2022.03 ~ 2022.12 이어드림스쿨 2길 / 중소벤처기업진흥공단
-
-#### Seminar
- - AWS Essential: 클라우드 기초의 모든것 (20220314)
- - AWS Innovate: AI/ML Edition (20220224)
 
 #### Competition(Dacon)
  - [음향 데이터 COVID-19 검출 AI 경진대회: TOP 10%](https://github.com/msmsm104/Dacon_covid19)
@@ -35,6 +23,9 @@
  - [BattleGround (머신러닝 프로젝트)](https://github.com/msmsm104/MachineLearning_Project)
  - [MNIST 손글씨 분류](https://github.com/msmsm104/TIL/tree/main/20220712/rnn)
  
+#### Seminar
+ - AWS Essential: 클라우드 기초의 모든것 (20220314)
+ - AWS Innovate: AI/ML Edition (20220224)
  
 #### Book
  - jump to python
