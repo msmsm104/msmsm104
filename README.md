@@ -2,7 +2,7 @@
 
 ---
 #### Job
- - Data Analyst
+ - Data Engineer, Data Analyst
 
 #### Education
  - 2022.03 ~ 2022.12 이어드림스쿨 2길 / 중소벤처기업진흥공단
